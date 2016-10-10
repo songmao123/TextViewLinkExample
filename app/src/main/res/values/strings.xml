@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TextViewLinkExample</string>
+    <string name="test_string">百度网址: m.moxian.com.\n电话号码: 0755-8754658. \n邮箱: song.qingsong@moxiangroup.com. \n召唤: @SQSong.</string>
+</resources>
